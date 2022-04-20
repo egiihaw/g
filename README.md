@@ -51,8 +51,8 @@ Owner Hisoka-Morou | Constributor |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![ZEEONE OFC](https://github.com/zeeone-ofc.png?size=100)](https://github.com/zeeone-ofc) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Zeeone Ofc](https://github.com/zeeone-ofc)
 Constributor | Owner of Alphabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FBOTZ YT](https://github.com/FBOTZ-YT.png?size=100)](http://github.com/FBOTZ-YT) 
-[Adiwajshing](https://github.com/adiwajshing) | [FBOTZ YT](https://github.com/FBOTZ-YT)
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FBOTZ YT](https://github.com/NzrlAfndi.png?size=100)](http://github.com/NzrlAfndi) 
+[Adiwajshing](https://github.com/adiwajshing) | [NZRL AFNDI](https://github.com/NzrlAfndi)
 Owner of Baileys | Team of Ryubotz |
 <a href="https://github.com/xfar05"><img src="https://github.com/xfar05.png?size=100" width="100" height="100"></a> | <a href="https://github.com/YdzAja"><img src="https://github.com/YdzAja.png?size=100" width="100" height="100"></a>
 [X-Far](https://github.com/xfar05) | [Ryuuka Botz](https://github.com/YdzAja)
