@@ -19,7 +19,7 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/R-TEAM94/RYUBOTZMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEXOO/RYUMD)
 
 ---
 
