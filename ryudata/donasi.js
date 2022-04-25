@@ -2,18 +2,15 @@
 
 // UCAPAN WELCOME
 exports.donasi = () => {
-	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
+	return`*TERIMA KASIH SUDAH MAU DONASI*
 
-*Q.S Az-Zalzalah Ayat 7 :*
+*GOPAY :SCAN PP OWNER*
+*DANA : SCAN PP OWNER*
+*OVO :SCAN PP OWNER*
 
-فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ
-
-Artinya : Maka barangsiapa 
-mengerjakan kebaikan seberat
-zarrah, niscaya dia akan melihat 
-(balasan)nya,
+*UNTUK YANG MAU DONASI TERIMAKASIH😎*
 
 contact owner :
-wa.me/6285609233482 (Owner)
+wa.me/6289529291185 (Owner)
 `
 }
